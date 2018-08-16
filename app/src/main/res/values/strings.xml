@@ -3,5 +3,6 @@
     <string name="name_me">ZANI BROWN,25</string>
     <string name="work">Working at Star icon,Uganda limited</string>
     <string name="location">Kampala,Uganda</string>
+    <string name="input_placeholder">Write a message </string>
 
 </resources>
